@@ -14,3 +14,17 @@ networks:
 github-username: DaiJon24
 presentations:
 ---
+### Biography and Interests
+ 
+I am a first year graduate student at the University of Massachusetts Amherst
+
+
+### Project 
+
+
+### Recent Accomplishments
+  * GEM Fellow (https://www.gemfellowship.org/) 
+
+### Mentors 
+  * Verena Martinez Outschoorn (University of Massachusetts)
+ 
