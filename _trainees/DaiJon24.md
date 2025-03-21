@@ -10,7 +10,7 @@ photo: /assets/images/trainees/DaiJon-James.JPG
 institution: University of Massachusetts Amherst
 e-mail: Daijonjames@umass.edu
 networks:
-  -|atlas|
+  |atlas|
 github-username: DaiJon24
 presentations:
 ---
